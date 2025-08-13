@@ -14,7 +14,7 @@ Put your Android phone in recovery mode (following the instruction of your speci
 using adb:
 
 ```bash
-adb restart recovery
+adb reboot recovery
 ```
 
 On your device, select `ADB sideload` to enable the upload of a zip file, while from your computer
