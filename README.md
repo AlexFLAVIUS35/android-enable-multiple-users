@@ -1,4 +1,4 @@
-# @AlexFLAVI35/android-enable-multiple-users (fix)
+# @AlexFLAVIUS35/android-enable-multiple-users (fix)
 This package enables Multiple users account feature on Android devices without root or custom loader.
 
 Based on this [article](https://beebom.com/how-enable-multiple-user-accounts-any-android/), it adds
